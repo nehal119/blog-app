@@ -1,0 +1,19 @@
+.fixed.inverted.menu { 
+    background-color: #0e3abb;
+}
+
+i.icon { 
+    font-size: 2.5em; 
+}
+
+.container.main { 
+    margin-top: 6em; 
+}
+
+#show-description { 
+    margin: 10px 0 20px; 
+}
+
+#delete-form { 
+    display: inline; 
+}
