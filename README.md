@@ -1,6 +1,8 @@
-# blog-app
+## Building a Blog App  using Node and Express
 
-This app was made with `Node` and `Express`. It also uses other technologies like `MongoDB` as a database and `Semantic-UI` for user interface design.
+This application was built with `Node` and `Express`. It also uses other technologies like `MongoDB` as a database and `Semantic-UI` for user interface design.
+In this application a user can upload an `image` with a `title` and `description` which will be saved in the database and can be seen on the homepage.
 
-#### Workflow:
-In this app anyone can add an `image` with a `title` and `description` which will be saved in the database.
+![Preview](preview.home.png?raw=true)
+![Preview](preview.details.png?raw=true)
+![Preview](preview.new.png?raw=true)
